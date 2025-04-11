@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c2252cc8a24c53a46b51571430a68f5e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hagin Caps Thin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e2f2f2b5a67e5f344bd75316c73eb5a3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
